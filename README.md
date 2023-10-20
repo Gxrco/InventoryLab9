@@ -1,4 +1,7 @@
-Inventory app
+Inventory app 
+==================================
+
+LINK VIDEO: https://youtu.be/01XjFy6KWV4
 ==================================
 
 Solution code for Android Basics with Compose.
